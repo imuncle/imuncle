@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  🔭 I’m currently working on ML, DL, Robotic, Web...
+-  🔭 I’m currently working on Computer Vision, Deep Learning, Robotic, SLAM...
 -  😄 Hobbies: Articles & Music :headphones:
 -  ⚡ Stay hungry, Stay foolish :heart: 
 -  🌱 I’m currently learning at HITSZ
