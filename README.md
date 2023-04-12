@@ -5,10 +5,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  🔭 I’m currently working on Computer Vision, Deep Learning, Robotic, SLAM...
+-  🔭 I’m currently working on Computer Vision, Motion Planning, SLAM...
 -  😄 Hobbies: Articles & Music :headphones:
 -  ⚡ Stay hungry, Stay foolish :heart: 
--  🌱 I’m currently learning at HITSZ
+-  🌱 I’m currently learning at CUHK
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![github stats](https://github-readme-stats.vercel.app/api?username=imuncle&show_icons=true)
